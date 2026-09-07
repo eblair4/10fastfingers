@@ -1,0 +1,6 @@
+{
+  "name": "FastFingers Typing Test",
+  "description": "A responsive, web-based typing speed test inspired by 10FastFingers featuring double-word multiplier scoring, real-time statistics, and visual performance charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
